@@ -38,10 +38,10 @@ Si deseas clonar el repositorio y ejecutarlo localmente, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/FrancoCoria921/challenge-amigo
 2. Abre la carpeta del proyecto:
    ```bash
-   cd amigo-secreto
+   cd challenge-amigo
 4. Abre el archivo `index.html` en tu navegador.
 
 ---
